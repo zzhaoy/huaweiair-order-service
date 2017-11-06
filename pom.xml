@@ -4,11 +4,11 @@
         xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.huaweiair</groupId>
-    <artifactId>hu</artifactId>
+    <artifactId>huaweiairorderservice</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>hu</name>
+    <name>huaweiairorderservice</name>
     <url>http://maven.apache.org</url>
 
     <properties>
